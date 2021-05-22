@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611276980881",
+    "project_id": "donationapp-3dad8",
+    "storage_bucket": "donationapp-3dad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611276980881:android:deccf63940e4d7ddffb530",
+        "android_client_info": {
+          "package_name": "com.rahul.flutter.food_donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611276980881-0skuehutp1m6lhu77t40slnnlgtgbfou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.flutter.food_donation_app",
+            "certificate_hash": "ba53aabbbedc084cea58f1cf1ba87ce6c67e5b13"
+          }
+        },
+        {
+          "client_id": "611276980881-51uflto32k3scjd6hid86m2rbg0gdebc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahul.flutter.food_donation_app",
+            "certificate_hash": "041b0e1012b9af6fbe2979d8d5134491921f71b4"
+          }
+        },
+        {
+          "client_id": "611276980881-grf5sf72s9lqhbe43dg6apr2s0htb7hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGQ09ApnrcdUnwW4sitMVpiATUjS-F9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611276980881-grf5sf72s9lqhbe43dg6apr2s0htb7hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
